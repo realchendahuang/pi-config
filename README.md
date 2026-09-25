@@ -1,14 +1,11 @@
 # 我的 Pi Coding Agent 配置
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-success)](LICENSE)
-[![Pi](https://img.shields.io/badge/Pi-0.82.0-8A2BE2)](https://pi.dev)
-[![Plugins](https://img.shields.io/badge/plugins-17-blue)](#六插件目录17个按用途分组)
-[![Skills](https://img.shields.io/badge/skills-18-green)](#七全局-skill-清单18个)
-[![MCP](https://img.shields.io/badge/MCP-2-orange)](#八mcp-server2个)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20WSL-lightgrey)](#五快速上手3步)
-[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/pi-config?style=social)](https://github.com/realchendahuang/pi-config/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/realchendahuang/pi-config)](https://github.com/realchendahuang/pi-config/commits)
-[![Source](https://img.shields.io/badge/source-GitHub-black)](https://github.com/realchendahuang/pi-config)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/pi-config?style=social)](https://github.com/realchendahuang/pi-config)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/pi-config?style=social)](https://github.com/realchendahuang/pi-config/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/pi-config)](https://github.com/realchendahuang/pi-config/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/pi-config/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 <!-- ASCII 渲染测试：下面的 banner 用 Unicode 块字符，测试 GitHub 等宽渲染 -->
 
